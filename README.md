@@ -1,5 +1,6 @@
 # Climo - command line + emoticon
 this just add emoticon based on exit code of lasted command
+![example](example.png)
 
 # Installation
 - clone/download this into some dir ex: `~/.bash/climo`
