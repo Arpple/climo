@@ -8,6 +8,11 @@ this just add emoticon based on exit code of lasted command
 export CLIMO=~/path/to/climo
 source "${CLIMO}/main.sh"
 ```
+- edit or add `\$res_emo` to your PS1 
+```
+#example
+export PS1="[\u@\h \$res_emo<[$ "
+```
 - restart your terminal and done\\\\(۶•̀ᴗ•́)۶//
 
 # Add more emoticon
