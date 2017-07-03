@@ -6,7 +6,7 @@ this just add emoticon based on exit code of lasted command
 - clone/download this into some dir ex: `~/.bash/climo`
 - add following to your `.bashrc` or `.bash_profile` or other similar
 ```sh
-export CLIMO=/path/to/climo
+export CLIMO=/path/to/climo/src
 source "${CLIMO}/main.sh"
 ```
 - edit or add `\$res_emo` to your PS1 
